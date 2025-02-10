@@ -5,7 +5,10 @@ La principale tâche de l'API est de générer un nombre aléatoire entre 1 et X
 Pour lancer l'application, assurez-vous d'avoir renseigné les données de votre base de données dans le fichier .env.
 
 Une fois les valeurs saisies, exécutez simplement la commande 
-```make setup```
+```sh
+make setup
+```
+
 , qui effectuera toutes les actions nécessaires pour démarrer l'API.
 
 Assurez-vous que l'API est en état de fonctionnement avant de tester l'application principale.
